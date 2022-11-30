@@ -11,4 +11,3 @@
 
 # Software Requirements
 - Xilinx Vivado or ModelSim
-- 
