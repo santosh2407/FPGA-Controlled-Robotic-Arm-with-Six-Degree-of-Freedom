@@ -10,4 +10,5 @@
 - 12v Power Supply
 
 # Software Requirements
-- Xilinx Vivado 
+- Xilinx Vivado or ModelSim
+- 
